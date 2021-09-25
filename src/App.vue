@@ -6,5 +6,9 @@
   };
 </script>
 <template>
-  <div>Welcome to my Vue app!</div>
+  <div id="nav">
+    <router-link to="/">Home</router-link> |
+    <router-link to="/about">concerts</router-link>
+  </div>
+  <router-view/>
 </template>
