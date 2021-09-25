@@ -1,6 +1,6 @@
-# Foobar
+# VueJS 3 Starter
 
-> ✨ A VueJS 3 boilerplate to create Vue applications easily and quickly with Vue Router, Snowpack, TypeScript and SCSS
+> ✨ A VueJS 3 starter to create Vue applications easily and quickly with Vue Router, Snowpack, TypeScript and SCSS
 
 ## Architecture
 ```bash
