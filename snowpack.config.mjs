@@ -1,10 +1,11 @@
 /** @type {import("snowpack").SnowpackUserConfig } */
 export default {
   mount: {
-    /* ... */
+    public: '/',
+    src: '/dist'
   },
   plugins: [
-    /* ... */
+    '@snowpack/plugin-vue'
   ],
   routes: [
     /* Enable an SPA Fallback in development: */
