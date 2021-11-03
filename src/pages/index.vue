@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-      <Welcome message="VueJS3 starterr, your best VueJS starter !"/>
+      <Welcome message="VueJS3 starter, your best VueJS starter !"/>
   </div>
 </template>
 
